@@ -127,4 +127,16 @@ h1, h2, h3, h4, h5, h6, .navbar {
 	font-weight: 100;
 	font-size: 25px;
   }
+
+  .course-title {
+	  color: black;
+  }
+
+  .course-title:hover {
+	  color: gray;
+  }
   
+  .course-descript {
+	  padding-left: 10%;
+	  font-size: 20px;
+  }
