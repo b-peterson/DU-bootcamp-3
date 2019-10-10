@@ -21,9 +21,23 @@ html {
     font-family: "Helvetica Neue", Helvetica;
     padding: 10px 0px;
     margin-top: 30px;
+    font-weight: 100;
   }
 
   #footer a {
       color: white;
       font-weight: 100;
+  }
+
+  .social-button {
+    margin: 4px;
+    color: #989898;
+  }
+
+  .social a:hover {
+    text-decoration: none;
+  }
+
+  .social:hover {
+    color: white;
   }
